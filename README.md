@@ -1,10 +1,8 @@
-# NTU DSAI Capstone Project (Module 2: Data Engineering)
-
-## Stock Analytics Data Pipeline with Insider Trading Dashboard
+# Stock Analytics Data Pipeline with Insider Trading Dashboard
 
 ### Project Overview
 
-This project is a comprehensive Stock Analytics Data Pipeline designed to ingest, process, and analyze financial market data and SEC insider trading information. Built as part of the NTU DSAI Module 2 Capstone, it automates the end-to-end flow from raw data extraction to analytics-ready models in Google BigQuery, complete with a modern dashboard UI for visualization and analysis.
+This project is a comprehensive Stock Analytics Data Pipeline designed to ingest, process, and analyze financial market data and SEC insider trading information. It automates the end-to-end flow from raw data extraction to analytics-ready models in Google BigQuery, complete with a modern dashboard UI for visualization and analysis.
 
 ### Business Value Proposition: Insider Alpha
 
